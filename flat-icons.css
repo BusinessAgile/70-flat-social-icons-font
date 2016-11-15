@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'flat-icons';
-    src:    url('fonts/flat-icons.eot?gtewka');
-    src:    url('fonts/flat-icons.eot?gtewka#iefix') format('embedded-opentype'),
-        url('fonts/flat-icons.ttf?gtewka') format('truetype'),
-        url('fonts/flat-icons.woff?gtewka') format('woff'),
-        url('fonts/flat-icons.svg?gtewka#icomoon') format('svg');
+    src:    url('../fonts/flat-icons.eot?gtewka');
+    src:    url('../fonts/flat-icons.eot?gtewka#iefix') format('embedded-opentype'),
+        url('../fonts/flat-icons.ttf?gtewka') format('truetype'),
+        url('../fonts/flat-icons.woff?gtewka') format('woff'),
+        url('../fonts/flat-icons.svg?gtewka#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
